@@ -1,0 +1,8 @@
+name = fillformtheme
+description = Themecopy basierend auf simpleclean
+core = 7.x
+engine = phptemplate
+base theme = simpleclean
+
+stylesheets[screen][] = stylechanges.css
+
