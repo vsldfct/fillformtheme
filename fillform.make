@@ -23,6 +23,15 @@ projects[variable][version] = "2.2"
 
 projects[views][version] = "3.5"
 
+projects[profile2][version] = "1.3"
+
+projects[field_group][version] = "1.1"
+
+projects[rel][version] = "1.0-alpha2"
+
+projects[ds][version] = "2.2"
+
+
 ; Themes
 projects[simpleclean][version] = "1.4"
 
