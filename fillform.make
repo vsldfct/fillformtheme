@@ -15,6 +15,8 @@ projects[i18n][version] = "1.8"
 
 projects[l10n_update][version] = "1.0-beta3"
 
+projects[l10n_client][version] = "1.2"
+
 projects[location][version] = "3.0-alpha1"
 
 projects[strongarm][version] = "2.0"
