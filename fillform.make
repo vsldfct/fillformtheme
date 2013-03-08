@@ -37,3 +37,8 @@ projects[ds][version] = "2.2"
 ; Themes
 projects[simpleclean][version] = "1.4"
 
+; Themes
+projects[fillform][download][type] = "git"
+projects[fillform][download][url] = "git://github.com/vsldfct/fillformtheme.git"
+projects[fillform][type] = "theme"
+
