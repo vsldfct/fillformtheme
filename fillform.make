@@ -33,6 +33,8 @@ projects[rel][version] = "1.0-alpha2"
 
 projects[ds][version] = "2.2"
 
+projects[backup_migrate][version] = "2.4"
+
 
 ; Themes
 projects[simpleclean][version] = "1.4"
