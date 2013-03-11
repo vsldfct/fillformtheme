@@ -35,6 +35,8 @@ projects[ds][version] = "2.2"
 
 projects[backup_migrate][version] = "2.4"
 
+projects[uif][version]  = "1.5"
+projects[uif_plus] = "1.2"
 
 ; Themes
 projects[simpleclean][version] = "1.4"
