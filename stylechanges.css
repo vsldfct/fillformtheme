@@ -5,8 +5,7 @@
 */
 #content { width: 900px; }
 
-#profile2-edit-main-form .group-pictures,
-#profile2-edit-main-form .group-address { border: 0; }
+#profile2-edit-main-form fieldset fieldset { border: 0; }
 
 #profile2-edit-main-form .form-item-profile-main-field-ortp2-und-0-locpick-user-latitude,
 #profile2-edit-main-form .form-item-profile-main-field-ortp2-und-0-locpick-user-longitude,
