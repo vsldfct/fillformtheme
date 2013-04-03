@@ -29,6 +29,10 @@ projects[profile2][version] = "1.3"
 
 projects[field_group][version] = "1.1"
 
+projects[realname][version] = "1.1"
+
+projects[token][version] = "1.5"
+
 projects[rel][version] = "1.0-alpha2"
 
 projects[ds][version] = "2.2"
@@ -36,7 +40,9 @@ projects[ds][version] = "2.2"
 projects[backup_migrate][version] = "2.4"
 
 projects[uif][version]  = "1.5"
-projects[uif_plus] = "1.2"
+projects[uif_plus][version] = "1.2"
+
+projects[fontyourface][version] = "2.7"
 
 ; Themes
 projects[simpleclean][version] = "1.4"
@@ -46,3 +52,18 @@ projects[fillform][download][type] = "git"
 projects[fillform][download][url] = "git://github.com/dominikb1888/fillformtheme.git"
 projects[fillform][type] = "theme"
 
+; Features
+projects[fillform_international][download][type] = "git"
+projects[fillform_international][download][url] = "git@redmine.wi1projects.com:fillform/fillform-international.git"
+projects[fillform_international][type] = "module"
+projects[fillform_international][subdir] = "cfeatures"
+
+projects[fillform_greetings][download][type] = "git"
+projects[fillform_greetings][download][url] = "git@redmine.wi1projects.com:fillform/fillform-international.git"
+projects[fillform_international][subdir] = "cfeatures"
+
+
+; Custom Modules
+projects[uif_plus_location][download][type] = "git"
+projects[uif_plus_location][download][url] = "git@redmine.wi1projects.com:custommodules/uif-plus-location.git"
+projects[uif_plus_location][type] = "module"
