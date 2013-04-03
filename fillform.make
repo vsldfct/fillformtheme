@@ -59,8 +59,9 @@ projects[fillform_international][type] = "module"
 projects[fillform_international][subdir] = "cfeatures"
 
 projects[fillform_greetings][download][type] = "git"
-projects[fillform_greetings][download][url] = "git@redmine.wi1projects.com:fillform/fillform-international.git"
-projects[fillform_international][subdir] = "cfeatures"
+projects[fillform_greetings][download][url] = "git@redmine.wi1projects.com:fillform/fillform-greetings.git"
+projects[fillform_greetings][type] = "module"
+projects[fillform_greetings][subdir] = "cfeatures"
 
 
 ; Custom Modules
