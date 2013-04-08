@@ -25,6 +25,8 @@ projects[variable][version] = "2.2"
 
 projects[views][version] = "3.5"
 
+projects[openlayers][version] = "2.0-beta5"
+
 projects[profile2][version] = "1.3"
 
 projects[field_group][version] = "1.1"
