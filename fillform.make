@@ -11,11 +11,15 @@ projects[entity][version] = "1.0"
 
 projects[features][version] = "2.0-beta1"
 
+projects[geophp][version] = "1.7"
+
 projects[i18n][version] = "1.8"
 
 projects[l10n_update][version] = "1.0-beta3"
 
 projects[l10n_client][version] = "1.2"
+
+projects[libraries][version]  = "2.1"
 
 projects[location][version] = "3.0-alpha1"
 
@@ -26,6 +30,8 @@ projects[variable][version] = "2.2"
 projects[views][version] = "3.5"
 
 projects[openlayers][version] = "2.0-beta5"
+
+projects[proj4js][version] = "1.2"
 
 projects[profile2][version] = "1.3"
 
