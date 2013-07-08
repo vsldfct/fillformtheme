@@ -1,6 +1,17 @@
+
 /* add stylechanges to simpletheme theme here
  *
  *  --> Subtheme fillform
  *   
 */
+#content { width: 900px; }
 
+#profile2-edit-main-form fieldset fieldset { border: 0; }
+
+#profile2-edit-main-form .form-item-profile-main-field-ortp2-und-0-locpick-user-latitude,
+#profile2-edit-main-form .form-item-profile-main-field-ortp2-und-0-locpick-user-longitude,
+#profile2-edit-main-form .description {
+  display: none;
+}
+
+input { font-size: 100%; font-family: Georgia,"Adobe Garamond Pro","Apple Garamond","ITC Garamond","Times New Roman",Times,serif }
