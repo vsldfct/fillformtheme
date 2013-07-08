@@ -2,10 +2,10 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.20"
+projects[drupal][version] = "7.22dru"
 
 ; Modules
-projects[ctools][version] = "1.2"
+projects[ctools][version] = "1.3"
 
 projects[entity][version] = "1.0"
 
@@ -27,9 +27,9 @@ projects[strongarm][version] = "2.0"
 
 projects[variable][version] = "2.2"
 
-projects[views][version] = "3.5"
+projects[views][version] = "3.7"
 
-projects[openlayers][version] = "2.0-beta5"
+projects[openlayers][version] = "2.0-beta7"
 
 projects[proj4js][version] = "1.2"
 
@@ -43,7 +43,7 @@ projects[token][version] = "1.5"
 
 projects[rel][version] = "1.0-alpha2"
 
-projects[ds][version] = "2.2"
+projects[ds][version] = "2.3"
 
 projects[backup_migrate][version] = "2.4"
 
@@ -51,6 +51,19 @@ projects[uif][version]  = "1.5"
 projects[uif_plus][version] = "1.2"
 
 projects[fontyourface][version] = "2.7"
+
+projects[pdf_to_imagefield][version] = "2.x-dev"
+
+projects[turnjs][download][type] = "git"
+projects[turnjs][download][url] = "http://git.drupal.org/sandbox/michaellenahan/1798746.git"
+projects[turnjs][type] = "module"
+
+projects[imagemagick][version] = "1.0"
+
+; Libraries
+projects[turn.js][download][type] ="git"
+projects[turn.js][download][type] = "https://github.com/blasten/turn.js.git"
+projects[turn.js][download][type] = "library"
 
 ; Themes
 projects[simpleclean][version] = "1.4"
